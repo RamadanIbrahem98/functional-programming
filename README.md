@@ -10,6 +10,7 @@
 -   [About the Project](#about-the-project)
 -   [TODO](#todo)
 -   [YouTube Sessions](#youtube-sessions)
+-   [Python Learning Resources](#python-learning-resources)
 
 ## About The Project
 
@@ -29,3 +30,8 @@ This Repo Contains my Python Implementation of Functional Programming YouTube Se
 ## YouTube Sessions
 
 You Can Find the Playlist Here [Arabic]: [link](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
+
+## Python Learning Resources
+
+- [Functional Programming - Real Python Channel](https://www.youtube.com/playlist?list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)
+- [Corey Schafer YouTube Channel](https://www.youtube.com/c/Coreyms/playlists)
