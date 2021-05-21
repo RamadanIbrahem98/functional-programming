@@ -18,14 +18,14 @@ This Repo Contains my Python Implementation of Functional Programming YouTube Se
 
 ## TODO
 
-| Sessions |          Status        |
-|:--------:|:----------------------:|
-|    02    |   :heavy_check_mark:   |
-|    03    |   :white_check_mark:   |
-|    04    |   :white_check_mark:   |
-|    05    |   :white_check_mark:   |
-|    06    |   :white_check_mark:   |
-|    07    |   :heavy_check_mark:   |
+| Sessions |             Status           |
+|:--------:|:----------------------------:|
+|    02    |      :heavy_check_mark:      |
+|    03    |   :hourglass_flowing_sand:   |
+|    04    |   :hourglass_flowing_sand:   |
+|    05    |   :hourglass_flowing_sand:   |
+|    06    |   :hourglass_flowing_sand:   |
+|    07    |      :heavy_check_mark:      |
 ---
 ## YouTube Sessions
 
